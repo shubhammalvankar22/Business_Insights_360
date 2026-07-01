@@ -1,4 +1,11 @@
 # Business Insights 360
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+## Power BI Source File
+Due to GitHub's file size limitations, the PBIX file is hosted externally.
+🔗 Download PBIX File ⬇️⬇️⬇️:
+
+🔗 [Download Power BI Source File (.pbix)](https://drive.google.com/file/d/1prnIa0hxge1yBeta6GfQWz5K2EFhPmlW/view?usp=sharing)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Project Overview
 
