@@ -1,5 +1,9 @@
 # Business Insights 360
 Enterprise Power BI Dashboard | SQL | DAX | Excel | POWER BI
+
+[![Live Dashboard](https://img.shields.io/badge/Power%20BI-Live%20Dashboard-yellow?logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiZGQyMTNkNzgtODEzMy00NGVhLWJlNjMtZTIyMzVjZWI2ZmJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Power BI Source File
 Due to GitHub's file size limitations, the PBIX file is hosted externally.
